@@ -5,7 +5,7 @@
 
 ## Project ideas
   * Find Radio beacons
-  * Measure anteenna gain (To compare different antennas)
+  * Measure antenna gain (To compare different antennas)
   * Monopole antenna
 
 ## Finished projects
